@@ -1,0 +1,11 @@
+
+ccxt
+yfinance      # Reliable historical data
+pycoingecko   # Aggregated market data (Sentiment/Rank)
+python-binance # High-speed real-time data
+pandas
+numpy
+tensorflow
+scikit-learn
+joblib
+flask
